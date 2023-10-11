@@ -46,15 +46,15 @@
 
   "number_of_inters_to_show": 2,
   
-  "onesignal_id": "xxxxxxx",
+  "onesignal_id": "51dd1457-7d35-4106-bd47-a6329e3ac351",
   
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3ccRAx.webp",
+	 "title": "Scp Garry's Mod Nextbot vr 1",
+	 "text": " SCP-VR-173 remains completely still as long as it is in the direct line of sight of a player. However, when the player looks away or blinks, SCP-VR-173 moves rapidly toward the player.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -66,10 +66,10 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3ccIcu.webp",
+	 "title": "Scp Garry's Mod Nextbot vr 2",
+	 "text": "SCP-VR-173 has the ability to teleport within the virtual environment. It can strategically appear in unexpected locations, creating a sense of unpredictability and tension for players.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -81,10 +81,10 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3ccA9j.webp",
+	 "title": "Scp Garry's Mod Nextbot vr 3",
+	 "text": " SCP-VR-173 is sensitive to virtual reality interactions. For instance, if a player wearing the VR headset attempts to physically touch SCP-VR-173 in the game, the entity reacts aggressively, triggering intense visual and auditory effects.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -96,10 +96,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3ccoP9.webp",
+	 "title": "Scp Garry's Mod Nextbot vr 4",
+	 "text": "To enhance the horror experience, SCP-VR-173 could incorporate eerie sounds, unsettling visual effects, and sudden appearances. The goal is to create an atmosphere of fear and suspense for players exploring the virtual containment facility.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -111,10 +111,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3ccT8b.webp",
+	 "title": "Scp Garry's Mod Nextbot vr 5",
+	 "text": "SCP-VR-173 should be contained within a specially designed virtual containment facility accessible within Garry's Mod. The containment zone should have restrictions on player movement to prevent unintended escapes.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -126,10 +126,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3cczFe.webp",
+	 "title": "Scp Garry's Mod Nextbot vr 6",
+	 "text": "Researchers are advised to conduct tests with caution, ensuring that players are aware of the potential psychological effects of interacting with SCP-VR-173. Monitoring VR headset usage time is recommended to prevent overexposure.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
